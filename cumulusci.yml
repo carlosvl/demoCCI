@@ -1,0 +1,7 @@
+project:
+    name: demoCCI
+    package:
+        name:  demoCCI
+        api_version: '43.0'
+
+
